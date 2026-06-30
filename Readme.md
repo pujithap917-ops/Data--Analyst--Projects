@@ -3,7 +3,7 @@ Welcome to my Data Analyst portfolio.
 
 Hi, Iam C Pujitha  an M.Sc. Computer Science graduate (2025) specializing in Data Analytics.  
 I build dashboards, analyze business data, and turn raw numbers into actionable insights.
-Hindupur, India 📧 [pujithap917@gmail.com]  🔗 [https://www.linkedin.com/in/c-pujitha-7b8008374?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+Hindupur, India  Phno:9542449611 📧 [pujithap917@gmail.com]  🔗 [https://www.linkedin.com/in/c-pujitha-7b8008374?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 
 ## Skills
