@@ -43,7 +43,9 @@ Queried HR data to analyze employee headcount, attrition, salary distribution, a
 - Analyzed attrition rates by department and employee tenure
 - Extracted salary distribution patterns across job levels
 
-# Social Media Engagement Analysis -Python
+4. Social Media Engagement Analysis 
+Tool: Python  &nbsp;|&nbsp; File:  `social_media_analysis.py`
+
 Analyzed social media post engagement data using Python to uncover 
 patterns in likes, shares, comments, and reach across different 
 content types and posting times
